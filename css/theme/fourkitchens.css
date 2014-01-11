@@ -137,13 +137,13 @@ body {
  * NAVIGATION CONTROLS
  *********************************************/
 
-.reveal .controls a {
+.reveal .controls div {
 	color: #fff;
 }
-	.reveal .controls a.enabled {
-		color: #7cb977;
-		text-shadow: 0px 0px 2px hsla(185, 45%, 70%, 0.3);
-	}
+.reveal .controls div.enabled {
+  color: #7cb977;
+  text-shadow: 0px 0px 2px hsla(185, 45%, 70%, 0.3);
+}
 
 
 /*********************************************
